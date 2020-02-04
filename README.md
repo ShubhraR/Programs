@@ -1,6 +1,5 @@
 # Programs
-It has simple programs
--Updating Readme file with some data
-:pray:
-:clap:
-:octocat:
+
+It has simple programs :tada: :thumbs-up:
+hey new learning!! :sparkles: :octocat: :tada:
+
